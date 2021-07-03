@@ -12,7 +12,7 @@ I started programming 3 years ago, and since, I've developped a few skills :
 
 And that's it ! If you think I can help you in any manner, you better contact me via discord. Here's my id : Eolien55#7078
 
-I don't have much experience in open source projects, so I would be very glad if you think that I would be helpful.
+I don't have much experience in open source projects, so I would be very glad if you think that I may be helpful.
 
 <!---
 Eolien55/Eolien55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
